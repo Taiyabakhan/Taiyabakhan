@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taiyaba Khan</h1>
 <h3 align="center">Recently graduating with a degree in Computer Science Engineering, I'm excited to launch my career in software development.</h3>
 
-- 📫 How to reach me **khantaiyaba611@gmail.com**
+- 📫 How to reach me **khantaiyaba610@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
