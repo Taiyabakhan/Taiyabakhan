@@ -7,7 +7,6 @@
 <p align="center">
 Ambitious and detail-oriented aspiring software developer with hands-on experience in building full-stack web applications and AI/ML models. Skilled in Java, Python, and modern web technologies. I enjoy solving real-world problems, developing intelligent solutions, and continuously learning in collaborative environments. Actively seeking internship opportunities to contribute to impactful and innovative software projects.
 </p>
-****
 
 ---
 
